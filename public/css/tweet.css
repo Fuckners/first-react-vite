@@ -1,0 +1,12 @@
+body {
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+input {
+    margin: 5px;
+}
+
+.likes::before {
+    content: '⭐';
+}
